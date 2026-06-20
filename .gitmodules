@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/shinythink/AI-nouncer-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/shinythink/AI-nouncer-backend.git
+[submodule "infra"]
+	path = infra
+	url = https://github.com/shinythink/AI-nouncer-infra.git
