@@ -7,3 +7,9 @@
 [submodule "infra"]
 	path = infra
 	url = https://github.com/shinythink/AI-nouncer-infra.git
+[submodule "ai-nouncer-backend"]
+	branch = main
+[submodule "ai-nouncer-frontend"]
+	branch = main
+[submodule "ai-nouncer-infra"]
+	branch = main
